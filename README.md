@@ -1,4 +1,4 @@
-# 🌟 SaiKet Systems Internship Projects – Kumar Ravi
+# **SaiKet Systems Internship Projects – Kumar Ravi**
 
 This repository contains all the internship project tasks completed during my time at **SaiKet Systems**.
 
@@ -6,7 +6,8 @@ This repository contains all the internship project tasks completed during my ti
 
 ## 📁 Task 1 – Blog Post
 
-> ✨ Short Description of what this project is about.
+> A simple and clean blog post layout built using only HTML, structured with semantic tags like `<header>`, `<article>`, and `<footer>` for better readability and SEO.
+
 
 **🛠️ Tech Used:** HTML
 
@@ -18,7 +19,7 @@ This repository contains all the internship project tasks completed during my ti
 
 ## 📁 Task 2 – Galaxy Product Card
 
-> ✨ Short description of the task.
+> A styled product card built using HTML and CSS with hover effects and clean alignment.
 
 **🛠️ Tech Used:** HTML, CSS
 
@@ -31,7 +32,7 @@ This repository contains all the internship project tasks completed during my ti
 
 ## 📁 Task 3 – Responsive Webpage Layout
 
-> ✨ A brief overview of the project functionality.
+> A fully responsive webpage layout built using HTML and CSS with adaptive grid and media queries.
 
 **🛠️ Tech Used:** HTML, CSS
 
@@ -79,18 +80,6 @@ This repository contains all the internship project tasks completed during my ti
 ![Task Output 1](https://github.com/user-attachments/assets/0dad7a35-c13c-4bc9-a7bf-1c58c7d0e3ed)
 ![Task Output 2](https://github.com/user-attachments/assets/5f5b01d7-ea15-4318-83bf-501ec7cda1c9)
 
-
----
-
-## 🚀 How to Use
-
-1. Clone the repo:
-
-   ```
-   git clone https://github.com/krRaviongit/SaiKet-Systems-Internship.git
-   ```
-2. Open any task folder.
-3. Run `index.html` with your browser or use VS Code Live Server.
 
 ---
 
