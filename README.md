@@ -1,6 +1,6 @@
-# **SaiKet Systems Internship Tasks for the role of Frontend-Developer – Kumar Ravi**
+# **SaiKet Systems Internship – Kumar Ravi**
 
-This repository contains all the internship project tasks completed during my time at **SaiKet Systems**.
+This repository contains all the internship project tasks completed during my time at **SaiKet Systems as a Frontend Developer Intern**.
 
 ---
 
