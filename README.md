@@ -50,7 +50,8 @@ This repository contains all the internship project tasks completed during my ti
 
 ### 📸 Output:
 
-![Output](Task4_QuizApp/output.png)
+![Output](https://github.com/user-attachments/assets/e2f1cd89-b82b-4e83-831e-b5ae0e06e983)
+
 
 ---
 
