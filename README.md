@@ -4,11 +4,11 @@ This repository contains all the internship project tasks completed during my ti
 
 ---
 
-## 📁 Task 1 – \[Project Name Here]
+## 📁 Task 1 – Blog Post
 
 > ✨ Short Description of what this project is about.
 
-**🛠️ Tech Used:** HTML, CSS, JavaScript (or modify as needed)
+**🛠️ Tech Used:** HTML
 
 ### 📸 Output:
 ![Output](https://github.com/user-attachments/assets/432c409e-beea-43e8-a942-baa9b7dcb371)
@@ -16,7 +16,7 @@ This repository contains all the internship project tasks completed during my ti
 
 ---
 
-## 📁 Task 2 – \[Project Name Here]
+## 📁 Task 2 – Galaxy Product Card
 
 > ✨ Short description of the task.
 
@@ -29,11 +29,11 @@ This repository contains all the internship project tasks completed during my ti
 
 ---
 
-## 📁 Task 3 – \[Project Name Here]
+## 📁 Task 3 – Responsive Webpage Layout
 
 > ✨ A brief overview of the project functionality.
 
-**🛠️ Tech Used:** HTML, CSS, JavaScript
+**🛠️ Tech Used:** HTML, CSS
 
 ### 📸 Output:
 
@@ -72,7 +72,7 @@ This repository contains all the internship project tasks completed during my ti
 
 > A front-end clone of the Myntra homepage with responsive design.
 
-**🛠️ Tech Used:** HTML, CSS
+**🛠️ Tech Used:** HTML, CSS, JavaScript
 
 ### 📸 Output:
 
