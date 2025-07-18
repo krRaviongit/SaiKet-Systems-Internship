@@ -76,7 +76,9 @@ This repository contains all the internship project tasks completed during my ti
 
 ### 📸 Output:
 
-!\[Output]\(Task6\_Myntra Webpage Clone/output.png)
+![Task Output 1](https://github.com/user-attachments/assets/0dad7a35-c13c-4bc9-a7bf-1c58c7d0e3ed)
+![Task Output 2](https://github.com/user-attachments/assets/5f5b01d7-ea15-4318-83bf-501ec7cda1c9)
+
 
 ---
 
