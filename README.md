@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/44db379e-0a34-40f6-bce7-1b33ed404f1f)
+![cover](https://github.com/krRaviongit/SaiKet-Systems-Internship-Task/blob/main/intern.jpg?raw=true)
 
 
 # **SaiKet Systems Internship – Kumar Ravi**
