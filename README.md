@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/44db379e-0a34-40f6-bce7-1b33ed404f1f)
+
+
 # **SaiKet Systems Internship – Kumar Ravi**
 
 This repository contains all the internship project tasks completed during my time at **SaiKet Systems as a Frontend Developer Intern**.
