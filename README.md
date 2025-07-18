@@ -12,7 +12,7 @@ This repository contains all the internship project tasks completed during my ti
 
 ### 📸 Output:
 
-![Output](Task1/output.png)
+![Output](<img width="1920" height="903" alt="Image" src="https://github.com/user-attachments/assets/432c409e-beea-43e8-a942-baa9b7dcb371" />)
 
 ---
 
