@@ -24,7 +24,8 @@ This repository contains all the internship project tasks completed during my ti
 
 ### 📸 Output:
 
-![Output](Task2/output.png)
+![Output](https://github.com/user-attachments/assets/e382ba21-5cf4-4505-a07e-4c56c152d17b)
+
 
 ---
 
