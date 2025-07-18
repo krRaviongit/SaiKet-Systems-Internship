@@ -85,7 +85,8 @@ This repository contains all the internship project tasks completed during my ti
 
 ## 📜 License
 
-This repository is licensed under the [MIT License](LICENSE).
+This project is licensed under **All Rights Reserved**.  
+You may not copy, distribute, or modify this code without the author's permission.
 
 ---
 
