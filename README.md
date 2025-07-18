@@ -11,8 +11,8 @@ This repository contains all the internship project tasks completed during my ti
 **🛠️ Tech Used:** HTML, CSS, JavaScript (or modify as needed)
 
 ### 📸 Output:
+![Output](https://github.com/user-attachments/assets/432c409e-beea-43e8-a942-baa9b7dcb371)
 
-![Output](<img width="1920" height="903" alt="Image" src="https://github.com/user-attachments/assets/432c409e-beea-43e8-a942-baa9b7dcb371" />)
 
 ---
 
